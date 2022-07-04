@@ -6,9 +6,16 @@
 <li>ts-node-dev | Hot-refrsh para typscript</li>
 <li>jest | Lib para testes</li>
 <li>typescript</li>
+<li>cors</li>
 </ul>
 
 ## Arquitetura MVC
+## Testes
+## GitActions
+## ORM 
+
+## HTTPS
+
 
 ## Codigo para auto reload
 ```
